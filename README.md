@@ -102,11 +102,17 @@ Sales-Operations-MIS-Automation/
 
 ### Dashboard - Page 1
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard1.png)
 
 ### Dashboard - Page 2
 
-![Dashboard 2](Images/dashboard_page2.png)
+![Dashboard 2](Images/Dashboard2.png)
+
+### Dashboard - Page 3
+
+![Dashboard](Images/Dashboard3.png)
+
+
 
 ---
 
