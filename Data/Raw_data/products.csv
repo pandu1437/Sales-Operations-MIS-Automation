@@ -1,0 +1,36 @@
+ProductID,Brand,ProductName,Category,CostPrice,SellingPrice,Stock
+1001,Dell,Inspiron 15,Laptop,15092,17431,90
+1002,Dell,XPS 13,Laptop,32598,38942,208
+1003,HP,Pavilion,Laptop,13934,17909,248
+1004,HP,Victus,Laptop,71982,84030,128
+1005,Lenovo,IdeaPad Slim,Laptop,4665,5392,75
+1006,Lenovo,ThinkPad E14,Laptop,30995,38776,26
+1007,Asus,Vivobook 15,Laptop,74063,88117,186
+1008,Asus,ROG Strix,Laptop,71926,88749,134
+1009,Acer,Aspire 7,Laptop,77736,93721,242
+1010,Apple,MacBook Air,Laptop,1351,1758,60
+1011,Apple,iPhone 16,Mobile,55892,68079,59
+1012,Samsung,Galaxy S25,Mobile,28721,38527,106
+1013,Samsung,Galaxy A56,Mobile,13896,16238,44
+1014,OnePlus,OnePlus 13,Mobile,47552,62744,174
+1015,Xiaomi,Redmi Note 15,Mobile,35171,46124,206
+1016,Realme,Realme GT,Mobile,60717,76336,116
+1017,Vivo,Vivo V50,Mobile,10828,13647,232
+1018,Oppo,Reno 14,Mobile,47900,60616,200
+1019,Nothing,Phone 3,Mobile,9616,11146,78
+1020,Motorola,Edge 60,Mobile,38430,51766,238
+1021,Apple,iPad Air,Tablet,31012,41038,117
+1022,Samsung,Galaxy Tab S10,Tablet,36934,45823,233
+1023,Lenovo,Tab P12,Tablet,48319,57138,110
+1024,Xiaomi,Pad 7,Tablet,27960,35901,199
+1025,Honor,Pad X9,Tablet,9858,12537,63
+1026,Logitech,Wireless Mouse,Accessory,70510,91368,61
+1027,Logitech,Mechanical Keyboard,Accessory,61089,74888,183
+1028,Boat,Airdopes,Accessory,73500,87753,103
+1029,Sony,WH-1000XM6,Accessory,7831,9364,28
+1030,JBL,Flip Speaker,Accessory,41847,51481,36
+1031,HP,Laptop Backpack,Accessory,28153,37517,165
+1032,Dell,USB-C Dock,Accessory,41745,49781,147
+1033,Apple,MagSafe Charger,Accessory,52356,69473,184
+1034,Samsung,45W Charger,Accessory,60642,71471,55
+1035,Anker,Power Bank,Accessory,32825,42639,157
